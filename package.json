@@ -15,6 +15,7 @@
     "nodemon": "^3.1.9"
   },
   "dependencies": {
+    "express": "^4.21.2",
     "faye": "^1.4.0",
     "podio-js": "^1.6.1",
     "superagent": "^10.1.1",
